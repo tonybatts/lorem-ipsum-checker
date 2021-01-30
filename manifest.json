@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Lorem Ipsum Checker",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Quickly check if your site still has Lorem Ipsum leftover",
   "short_name": "Lorem Ipsum Checker",
   "permissions": [
